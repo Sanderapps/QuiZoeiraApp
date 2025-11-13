@@ -1,0 +1,20 @@
+# Arquivos gerados pelo Build
+/build
+/app/build
+
+# Arquivos de configuração local que não devem ir para o repositório
+local.properties
+.gradle
+.idea
+
+# Logs e caches
+*.log
+.cxx/
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Pacotes gerados
+*.apk
+*.aab
